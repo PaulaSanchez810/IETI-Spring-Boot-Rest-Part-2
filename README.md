@@ -1,10 +1,10 @@
 # IETI-Spring-Boot-Rest-Part-2
-
 ---
 ## Spring Boot Rest API
 
 **Learning Objectives**
 
+- Explain what needs to be donde to achieve the Level 2 on a  RESTFUL API on the Richardson Maturity Model.
 - Implement a Level 2 Tasks RESTFUL API Microservice.
 -  User dependencies injections to create a decoupled architecture.
 

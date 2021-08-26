@@ -69,3 +69,17 @@
 8. Implement you *TaskController* (try to avoid copy paste, use the User Microservice as reference but try doing it consciously).
 9. Test ALL the endpoints of your API using PostMan or any other tool of your preference.
 
+## Built with 🛠️
+
+* Java 13
+* JUnit
+* [Maven](https://maven.apache.org/) - Dependency manager
+
+
+## Author ✒️
+
+* Paula Andrea Guevara Sánchez
+
+## License 📄
+
+This project is licensed under the GNU General Public License - [LICENSE](https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora/blob/main/LICENSE.txt) 
